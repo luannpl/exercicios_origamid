@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 50px;
+}
+h1 {
+  text-align: center;
+}
+
+.div-item {
+  background: #111;
+  color: white;
+  border-radius: 4px;
+  padding: 20px;
+  margin: 20px;
+}
+
+h2 {
+  margin: 0px;
+}
+p {
+  color: #b2b2b2;
+}
+button,
+a {
+  background: #febe01;
+  color: #332200;
+  text-decoration: none;
+  border-radius: 4px;
+  border: 0px solid black;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+}
+button {
+  border: 1px solid black;
+}
+.cor {
+  color: #febe01;
+}
